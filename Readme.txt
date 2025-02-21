@@ -1,3 +1,6 @@
+
+# Note : i am uable to join the backend part because the backend part made by our teamates unable to run on my pc #
+
 zidio task management app 
 #features 
 1 Task Assignment and Prioritizatiog Assign tasks to team 
